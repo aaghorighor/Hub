@@ -1,0 +1,7 @@
+E:\Test\EventHub\General\bin\Debug\netstandard2.0\General.deps.json
+E:\Test\EventHub\General\bin\Debug\netstandard2.0\General.dll
+E:\Test\EventHub\General\bin\Debug\netstandard2.0\General.pdb
+E:\Test\EventHub\General\obj\Debug\netstandard2.0\General.AssemblyInfoInputs.cache
+E:\Test\EventHub\General\obj\Debug\netstandard2.0\General.AssemblyInfo.cs
+E:\Test\EventHub\General\obj\Debug\netstandard2.0\General.dll
+E:\Test\EventHub\General\obj\Debug\netstandard2.0\General.pdb

@@ -1,0 +1,8 @@
+E:\Test\EventHub\General\bin\Debug\netstandard2.0\Ols.Movie.Hub.Common.deps.json
+E:\Test\EventHub\General\bin\Debug\netstandard2.0\Ols.Movie.Hub.Common.dll
+E:\Test\EventHub\General\bin\Debug\netstandard2.0\Ols.Movie.Hub.Common.pdb
+E:\Test\EventHub\General\obj\Debug\netstandard2.0\Ols.Movie.Hub.Common.AssemblyInfoInputs.cache
+E:\Test\EventHub\General\obj\Debug\netstandard2.0\Ols.Movie.Hub.Common.AssemblyInfo.cs
+E:\Test\EventHub\General\obj\Debug\netstandard2.0\Ols.Movie.Hub.Common.csproj.CoreCompileInputs.cache
+E:\Test\EventHub\General\obj\Debug\netstandard2.0\Ols.Movie.Hub.Common.dll
+E:\Test\EventHub\General\obj\Debug\netstandard2.0\Ols.Movie.Hub.Common.pdb
